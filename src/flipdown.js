@@ -412,3 +412,6 @@ function appendChildren(parent, children) {
     parent.appendChild(el);
   });
 }
+
+console.log('test flip')
+export default FlipDown
